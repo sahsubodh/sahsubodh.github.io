@@ -1,7 +1,11 @@
 {
+    "applinks": {
+    },
     "webcredentials": {
-        "apps": [
+    "apps": [
             "AN4U5AWX9M.com.clari.clari"
         ]
+    },
+    "appclips": {
     }
 }
