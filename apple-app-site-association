@@ -1,11 +1,18 @@
 {
-    "applinks": {
-    },
-    "webcredentials": {
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "AN4U5AWX9M.com.clari.clari"
+        ],
+        "components": []
+      }
+    ]
+  },
+  "webcredentials": {
     "apps": [
-            "AN4U5AWX9M.com.clari.clari"
-        ]
-    },
-    "appclips": {
-    }
+      "AN4U5AWX9M.com.clari.clari"
+    ]
+  },
+  "appclips": {}
 }
