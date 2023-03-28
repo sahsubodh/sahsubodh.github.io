@@ -3,21 +3,5 @@
     "apps": [
       "AN4U5AWX9M.com.clari.autofillLogin.LoginAutofill"
     ]
-  },
-  "appclips": {
-    "apps": [
-      "AN4U5AWX9M.com.clari.autofillLogin.LoginAutofill"
-    ]
-  },
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "AN4U5AWX9M.com.clari.autofillLogin.LoginAutofill",
-        "paths": [
-          "/xc/*",
-        ]
-      }
-    ]
   }
 }
