@@ -1,7 +1,19 @@
 {
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "AN4U5AWX9M.com.clari.autofillLogin.LoginAutofill"
+        ],
+        "components": []
+      }
+    ]
+  },
   "webcredentials": {
     "apps": [
       "AN4U5AWX9M.com.clari.autofillLogin.LoginAutofill"
     ]
-  }
+  },
+  "appclips": {}
 }
