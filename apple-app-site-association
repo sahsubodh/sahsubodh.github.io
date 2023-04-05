@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "AN4U5AWX9M.com.clari.autofillLogin.LoginAutofill"
+          "DJX3Y775Q3.com.consumer.hummingbird"
         ],
         "components": []
       }
@@ -12,7 +12,7 @@
   },
   "webcredentials": {
     "apps": [
-      "AN4U5AWX9M.com.clari.autofillLogin.LoginAutofill"
+      "DJX3Y775Q3.com.consumer.hummingbird"
     ]
   },
   "appclips": {}
