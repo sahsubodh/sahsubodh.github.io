@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "AN4U5AWX9M.com.clari.autofillLogin.LoginAutofill"
+          "4ACEB6FGVN.com.subodh.autofillTest"
         ],
         "components": []
       }
@@ -12,7 +12,7 @@
   },
   "webcredentials": {
     "apps": [
-      "AN4U5AWX9M.com.clari.autofillLogin.LoginAutofill"
+      "4ACEB6FGVN.com.subodh.autofillTest"
     ]
   },
   "appclips": {}
